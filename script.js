@@ -1,6 +1,7 @@
 const red = document.getElementById("red");
 const green = document.getElementById("green");
 const blue = document.getElementById("blue");
+// Comentario para verificar repositorio
 
 const redNum = document.getElementById("redNum");
 const greenNum = document.getElementById("greenNum");
